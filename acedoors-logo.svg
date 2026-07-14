@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 160" role="img" aria-label="AceDoors">
-  <rect width="720" height="160" rx="18" fill="#ffffff"/>
-  <path d="M18 30h128l54 50-54 50H18z" fill="#e31d2b"/>
-  <path d="M54 116 91 44h33l37 72h-30l-7-16H90l-7 16zm45-38h16l-8-19z" fill="#fff"/>
-  <text x="220" y="108" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="800" fill="#20272d">AceDoors</text>
-</svg>
